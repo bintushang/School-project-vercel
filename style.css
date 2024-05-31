@@ -3,10 +3,10 @@ body {
 }
 
 .button {
-  background-color: #04AA6D; /* Green */
+  background-color: #000000;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 30px 128px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -14,5 +14,5 @@ body {
 }
 
 .button:hover {
-  background-color: #3e8e41;
+  background-color: #000000;
 }
