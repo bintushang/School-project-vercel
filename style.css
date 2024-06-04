@@ -3,10 +3,10 @@ body {
 }
 
 .button {
-  background-color: green;
+  background-color: white;
   border: none;
-  color: white;
-  padding: 15px 32px;
+  color: black;
+  padding: 30px 64px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
